@@ -1,0 +1,2 @@
+# PickupAndRotate
+InspectItem
